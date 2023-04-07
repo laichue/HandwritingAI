@@ -23,4 +23,4 @@ for image in images:
 	count = count + 1
  
 while(True):#열린 창 바로 닫힘 문제 해결: while문을 지속 수행해 함수가 종료되지 않게하여 selenium제어창을 유지
-    	pass
+    	pass 
